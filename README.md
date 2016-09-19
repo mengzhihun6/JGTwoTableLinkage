@@ -10,4 +10,4 @@
                  
 - 图片展示效果
 
-![Mou icon](https://github.com/mengzhihun6/JGTwoTableLinkage/blob/master/TwoTableLinkage.gif)
+![Mou icon](https://github.com/mengzhihun6/JGTwoTableLinkage/blob/master/JGTwoTableLinkage.gif)
